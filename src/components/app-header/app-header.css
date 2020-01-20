@@ -1,0 +1,20 @@
+.app-header {
+    align-items: flex-end;
+    display: flex;
+
+}
+
+.app-header h1 {
+font-size: 2rem;
+
+}
+
+.app-header h2 {
+    font-size: 1rem;
+    color: grey;
+    margin-left: 3.85em;
+
+}
+
+
+
