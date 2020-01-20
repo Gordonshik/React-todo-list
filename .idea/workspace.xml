@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3094e86a-4654-4828-aed2-3ee141d0609a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1TyBkIBUpO2QluafyXBlqBDfcXv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../star-db" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Development\todo\src\components\todo-list-item" />
+      <recent name="E:\Development\todo\src\components\todo-list" />
+      <recent name="E:\Development\todo\src\components\search-panel" />
+      <recent name="E:\Development\todo\src\components\app-header" />
+      <recent name="E:\Development\todo\public" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3094e86a-4654-4828-aed2-3ee141d0609a" name="Default Changelist" comment="" />
+      <created>1574422596820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574422596820</updated>
+      <workItem from="1574422607700" duration="7306000" />
+      <workItem from="1574456282162" duration="531000" />
+      <workItem from="1574498760618" duration="4761000" />
+      <workItem from="1574516860238" duration="1978000" />
+      <workItem from="1574596804621" duration="129000" />
+      <workItem from="1574596999206" duration="2060000" />
+      <workItem from="1574613450142" duration="7050000" />
+      <workItem from="1574674647193" duration="4173000" />
+      <workItem from="1574687805234" duration="3600000" />
+      <workItem from="1574691487249" duration="467000" />
+      <workItem from="1574758385394" duration="9186000" />
+      <workItem from="1574850907628" duration="3851000" />
+      <workItem from="1574878269377" duration="5966000" />
+      <workItem from="1574932497043" duration="4346000" />
+      <workItem from="1575023688468" duration="601000" />
+      <workItem from="1575024331485" duration="10307000" />
+      <workItem from="1575038600272" duration="2213000" />
+      <workItem from="1575115193614" duration="6674000" />
+      <workItem from="1575198725325" duration="1307000" />
+      <workItem from="1575200052965" duration="732000" />
+      <workItem from="1575201173982" duration="4654000" />
+      <workItem from="1575210654122" duration="337000" />
+      <workItem from="1575218292143" duration="4909000" />
+      <workItem from="1575275785537" duration="245000" />
+      <workItem from="1575276048984" duration="63000" />
+      <workItem from="1575276660863" duration="84000" />
+      <workItem from="1575280878849" duration="198000" />
+      <workItem from="1575281101988" duration="45000" />
+      <workItem from="1575312736713" duration="7284000" />
+      <workItem from="1575402105214" duration="209000" />
+      <workItem from="1575402472573" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="672" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1574517251988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1574517251988" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1574422749827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1574422749827" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1575402310222">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575402310222" />
+    <state x="978" y="280" key="IDE.errors.dialog" timestamp="1574501106520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="978" y="280" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1574501106520" />
+    <state x="1096" y="244" key="run.anything.popup" timestamp="1575319961177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575319961177" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575313437712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575313437712" />
+  </component>
+</project>
